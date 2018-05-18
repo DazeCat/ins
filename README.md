@@ -7,11 +7,10 @@
 ### 使用方法
     cd ins 
 	python3 debug.py uname
-#### uname为用户的你要爬取的用户的名字
 example:我要爬的是佐佐木希的ins  
 她的主页为https://www.instagram.com/nozomisasaki_official/ 
 nozomisasaki_official 就是她的uname
 
     cd ins
-        python3 debug.py nozomisasaki_official
+    python3 debug.py nozomisasaki_official
 
